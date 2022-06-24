@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="CINEMAGIC">
+    <output-path>$PROJECT_DIR$/out/artifacts/kursova_asd</output-path>
+    <root id="root">
+      <element id="archive" name="CINEMAGIC.jar">
+        <element id="module-output" name="CINEMAGIC" />
+      </element>
+    </root>
+  </artifact>
+</component>
